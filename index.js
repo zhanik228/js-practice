@@ -1,6 +1,5 @@
 let input = document.querySelector('.input');
 let button = document.querySelector('.myButton');
-
 let username;
 
 button.onclick = function(e) {
